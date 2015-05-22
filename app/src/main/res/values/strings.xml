@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">layout</string>
+
+    <string name="profile">PROFILE</string>
+    <string name="XXX">XXXXX</string>
+    <string name="user">USERNAME</string>
+    <string name="pass">PASSWORD</string>
+    <string name="action_settings">Settings</string>
+</resources>
